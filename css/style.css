@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    color: blueviolet;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+p{
+    color: cornflowerblue;
+    font-size: 15px;
+    
+}
